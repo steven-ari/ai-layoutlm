@@ -1,0 +1,11 @@
+numpy==1.24.3
+opencv_python==4.7.0.72
+Pillow==9.5.0
+pytesseract==0.3.10
+torch==2.0.0
+transformers==4.28.1
+seqeval~=1.2.2
+tqdm~=4.65.0
+opencv-python~=4.7.0.72
+matplotlib~=3.7.1
+pandas~=2.0.1

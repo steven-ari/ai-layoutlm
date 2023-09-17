@@ -1,0 +1,208 @@
+[
+  {
+    "ocr": "/data/upload/1/91c642d0-invoice_image.png",
+    "id": 33,
+    "bbox": [
+      {
+        "x": 79.74452554744525,
+        "y": 61.67741935483871,
+        "width": 12.408759124087592,
+        "height": 2.967741935483871,
+        "rotation": 0,
+        "original_width": 790,
+        "original_height": 1118
+      },
+      {
+        "x": 6.934306569343065,
+        "y": 30.193548387096776,
+        "width": 27.37226277372263,
+        "height": 3.870967741935484,
+        "rotation": 0,
+        "original_width": 790,
+        "original_height": 1118
+      },
+      {
+        "x": 7.481751824817518,
+        "y": 20.387096774193548,
+        "width": 11.13138686131387,
+        "height": 2.4516129032258065,
+        "rotation": 0,
+        "original_width": 790,
+        "original_height": 1118
+      },
+      {
+        "x": 83.57664233576642,
+        "y": 8.774193548387094,
+        "width": 9.854014598540147,
+        "height": 2.5806451612903225,
+        "rotation": 0,
+        "original_width": 790,
+        "original_height": 1118
+      }
+    ],
+    "label": [
+      {
+        "x": 79.74452554744525,
+        "y": 61.67741935483871,
+        "width": 12.408759124087592,
+        "height": 2.967741935483871,
+        "rotation": 0,
+        "labels": [
+          "total"
+        ],
+        "original_width": 790,
+        "original_height": 1118
+      },
+      {
+        "x": 6.934306569343065,
+        "y": 30.193548387096776,
+        "width": 27.37226277372263,
+        "height": 3.870967741935484,
+        "rotation": 0,
+        "labels": [
+          "address"
+        ],
+        "original_width": 790,
+        "original_height": 1118
+      },
+      {
+        "x": 7.481751824817518,
+        "y": 20.387096774193548,
+        "width": 11.13138686131387,
+        "height": 2.4516129032258065,
+        "rotation": 0,
+        "labels": [
+          "company"
+        ],
+        "original_width": 790,
+        "original_height": 1118
+      },
+      {
+        "x": 83.57664233576642,
+        "y": 8.774193548387094,
+        "width": 9.854014598540147,
+        "height": 2.5806451612903225,
+        "rotation": 0,
+        "labels": [
+          "date"
+        ],
+        "original_width": 790,
+        "original_height": 1118
+      }
+    ],
+    "transcription": [
+      "$136.00",
+      "4275 Crummit Lane, Happy Village New York, NY, 281502",
+      "ABC Company",
+      "13/7/2020"
+    ],
+    "annotator": 1,
+    "annotation_id": 8,
+    "created_at": "2023-05-29T03:23:40.694649Z",
+    "updated_at": "2023-05-29T03:25:10.559226Z",
+    "lead_time": 133.43800000000002
+  },
+  {
+    "ocr": "/data/upload/1/744dad0e-page_12.jpg",
+    "id": 45,
+    "bbox": [
+      {
+        "x": 32.921248548596395,
+        "y": 6.301349943045488,
+        "width": 34.287275459326544,
+        "height": 4.362473037493031,
+        "rotation": 0,
+        "original_width": 1662,
+        "original_height": 2342
+      },
+      {
+        "x": 2.732053821460282,
+        "y": 12.893531421923846,
+        "width": 28.686565125332958,
+        "height": 7.270788395821719,
+        "rotation": 0,
+        "original_width": 1662,
+        "original_height": 2342
+      },
+      {
+        "x": 87.0022539444027,
+        "y": 32.13809650759797,
+        "width": 7.813673929376417,
+        "height": 1.7062116768861637,
+        "rotation": 0,
+        "original_width": 1662,
+        "original_height": 2342
+      },
+      {
+        "x": 90.51683797509655,
+        "y": 46.034115420460886,
+        "width": 4.515791440430225,
+        "height": 1.6023776078945884,
+        "rotation": 0,
+        "original_width": 1662,
+        "original_height": 2342
+      }
+    ],
+    "label": [
+      {
+        "x": 32.921248548596395,
+        "y": 6.301349943045488,
+        "width": 34.287275459326544,
+        "height": 4.362473037493031,
+        "rotation": 0,
+        "labels": [
+          "company"
+        ],
+        "original_width": 1662,
+        "original_height": 2342
+      },
+      {
+        "x": 2.732053821460282,
+        "y": 12.893531421923846,
+        "width": 28.686565125332958,
+        "height": 7.270788395821719,
+        "rotation": 0,
+        "labels": [
+          "address"
+        ],
+        "original_width": 1662,
+        "original_height": 2342
+      },
+      {
+        "x": 87.0022539444027,
+        "y": 32.13809650759797,
+        "width": 7.813673929376417,
+        "height": 1.7062116768861637,
+        "rotation": 0,
+        "labels": [
+          "date"
+        ],
+        "original_width": 1662,
+        "original_height": 2342
+      },
+      {
+        "x": 90.51683797509655,
+        "y": 46.034115420460886,
+        "width": 4.515791440430225,
+        "height": 1.6023776078945884,
+        "rotation": 0,
+        "labels": [
+          "total"
+        ],
+        "original_width": 1662,
+        "original_height": 2342
+      }
+    ],
+    "transcription": [
+      "TOM TAILOR",
+      "Herr Jasper Reimann Hauptstr. 15 17258 Feldberger Seenlandschaft",
+      "17.08.2015",
+      "78,41"
+    ],
+    "annotator": 1,
+    "annotation_id": 12,
+    "created_at": "2023-05-29T14:41:41.315563Z",
+    "updated_at": "2023-05-29T14:42:49.102529Z",
+    "lead_time": 177.84999999999997
+  }
+]

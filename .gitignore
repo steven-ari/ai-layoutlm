@@ -1,0 +1,13 @@
+.idea
+.vscode
+.history
+.DS_Store
+
+node_modules
+android/app/build
+android/.gradle
+ios/Pods%
+
+venv/
+__pycache__
+*.pyc
